@@ -11,7 +11,7 @@ Since Looker Studio reports (`.ltd` files) can't be viewed directly on GitHub, y
 ---
 
 ## 📈 Report #01: Marketing Campaign Performance
-This dataset focuses on marketing performance metrics, including ROI analysis, audience insights, and campaign performance.
+This dashboard focuses on marketing performance metrics, showcasing insights on ROI analysis, audience behavior, and campaign effectiveness.
 
 🔗 [View Live Report](https://lookerstudio.google.com/reporting/b6a4da74-6671-4cdf-a05d-6b1b1de52801)  
 📂 [Explore Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data)
