@@ -28,3 +28,9 @@ This dashboard provides an in-depth analysis of global video game sales, highlig
 
 🔗 [View Live Report](https://lookerstudio.google.com/reporting/29b78158-ab1a-4fc8-8511-20884e64ab77)  
 📂 [Explore Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
+
+## 📊 Report #04: E-Commerce Sales Analytics
+This dashboard provides an in-depth analysis of e-commerce sales performance. It allows users to explore key metrics such as revenue trends, customer lifetime value (CLV), average order value (AOV), total orders, and sales distribution across different regions and products.
+
+🔗 [View Live Report](https://lookerstudio.google.com/reporting/7a04f8b4-8232-4d4b-84cc-dc10d738205e)  
+📂 [Explore Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
